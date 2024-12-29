@@ -1,0 +1,71 @@
+/* styles.css */
+
+/* Animation cho hình ảnh */
+@keyframes moveImage {
+    0% {
+        right: -100px;
+    }
+    100% {
+        right: 100%;
+    }
+}
+
+/* Animation cho dòng chữ */
+@keyframes moveText {
+    0% {
+        right: -100px;
+    }
+    100% {
+        right: 100%;
+    }
+}
+
+/* Animation cho chuyển động nhẹ của các phần tử */
+.animate-float {
+    animation: float 2s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+/* Các style cho phần tử hình ảnh và chữ */
+.image-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    height: 2rem;
+    background-color: #74b6fd; /* bg-slate-300 */
+    
+}
+
+.image {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 40px;
+    animation: moveImage 15s linear infinite;
+    animation-delay: 2s;
+    z-index: 1;
+}
+
+.text {
+    position: absolute;
+    top: 35%;
+    transform: translateY(-25%); /* Điều chỉnh khoảng cách */
+    font-size: 16px;
+    color: whitesmoke;
+    animation: moveText 15s linear infinite;
+    white-space: nowrap;
+    z-index: 2;
+}
