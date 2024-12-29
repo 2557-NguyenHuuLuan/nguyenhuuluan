@@ -17,7 +17,7 @@ export default function MyBlogs() {
         <div>
             <div className="text-left my-8 ml-5">
                 <a
-                    href="/"
+                    href="/nguyenhuuluan"
                     className="px-4 py-2 bg-blue-500 text-white font-medium text-sm rounded-md hover:bg-blue-700"
                 >
                     Quay lại trang chủ

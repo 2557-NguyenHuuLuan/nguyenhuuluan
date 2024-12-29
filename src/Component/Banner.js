@@ -20,7 +20,7 @@ export default function Banner() {
                 {/* Right section */}
                 <div className="flex space-x-12">
                     {[
-                        { text: "Home", path: "/" },
+                        { text: "Home", path: "/nguyenhuuluan" },
                         { text: "My Blogs", path: "/my-blogs" },
                         { text: "About Me", path: "/about-me" },
                     ].map(({ text, path }, index) => (

@@ -28,7 +28,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Main />} />
+        <Route path="/nguyenhuuluan" element={<Main />} />
         <Route path="/my-blogs" element={<MyBlogs />} />
         <Route path="/about-me" element={<AboutMe />} />
         <Route path="/my-blogs/:id" element={<BlogDetails />} />
