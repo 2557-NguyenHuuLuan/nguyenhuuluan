@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb456971.css",
-    "main.js": "/static/js/main.42212159.js",
-    "static/js/488.21a3b654.chunk.js": "/static/js/488.21a3b654.chunk.js",
-    "static/media/me2.jpeg": "/static/media/me2.180833706c51b4bc2175.jpeg",
-    "static/media/lbparking.png": "/static/media/lbparking.3096bbd56be2f8700268.png",
-    "static/media/me.png": "/static/media/me.fc933daac375364bc771.png",
-    "static/media/me.jpg": "/static/media/me.2d1de2eb33bd04d5ff15.jpg",
-    "static/media/j1.png": "/static/media/j1.cb1ac4b9b5d31a6b444a.png",
-    "static/media/re.png": "/static/media/re.cf469f956d3fd5be8e1f.png",
-    "static/media/j2.png": "/static/media/j2.b7328cfc29863875a34f.png",
-    "static/media/nb.png": "/static/media/nb.ccefc18831f54f887b76.png",
-    "static/media/cat.gif": "/static/media/cat.d5f74940a447f618e115.gif",
-    "static/media/app.png": "/static/media/app.599dba60a410f11a0dfd.png",
-    "index.html": "/index.html",
-    "main.fb456971.css.map": "/static/css/main.fb456971.css.map",
-    "main.42212159.js.map": "/static/js/main.42212159.js.map",
-    "488.21a3b654.chunk.js.map": "/static/js/488.21a3b654.chunk.js.map"
+    "main.css": "/nguyenhuuluan/static/css/main.fb456971.css",
+    "main.js": "/nguyenhuuluan/static/js/main.67186c66.js",
+    "static/js/488.21a3b654.chunk.js": "/nguyenhuuluan/static/js/488.21a3b654.chunk.js",
+    "static/media/me2.jpeg": "/nguyenhuuluan/static/media/me2.180833706c51b4bc2175.jpeg",
+    "static/media/lbparking.png": "/nguyenhuuluan/static/media/lbparking.3096bbd56be2f8700268.png",
+    "static/media/me.png": "/nguyenhuuluan/static/media/me.fc933daac375364bc771.png",
+    "static/media/me.jpg": "/nguyenhuuluan/static/media/me.2d1de2eb33bd04d5ff15.jpg",
+    "static/media/j1.png": "/nguyenhuuluan/static/media/j1.cb1ac4b9b5d31a6b444a.png",
+    "static/media/re.png": "/nguyenhuuluan/static/media/re.cf469f956d3fd5be8e1f.png",
+    "static/media/j2.png": "/nguyenhuuluan/static/media/j2.b7328cfc29863875a34f.png",
+    "static/media/nb.png": "/nguyenhuuluan/static/media/nb.ccefc18831f54f887b76.png",
+    "static/media/cat.gif": "/nguyenhuuluan/static/media/cat.d5f74940a447f618e115.gif",
+    "static/media/app.png": "/nguyenhuuluan/static/media/app.599dba60a410f11a0dfd.png",
+    "index.html": "/nguyenhuuluan/index.html",
+    "main.fb456971.css.map": "/nguyenhuuluan/static/css/main.fb456971.css.map",
+    "main.67186c66.js.map": "/nguyenhuuluan/static/js/main.67186c66.js.map",
+    "488.21a3b654.chunk.js.map": "/nguyenhuuluan/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb456971.css",
-    "static/js/main.42212159.js"
+    "static/js/main.67186c66.js"
   ]
 }
