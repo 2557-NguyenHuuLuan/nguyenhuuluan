@@ -46,7 +46,7 @@ export default function MyBlogs() {
                                     <span className="text-sm">{blog.date}</span>
                                 </div>
                                 <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                                    <Link to={`/my-blogs/${blog.id}`}>{blog.title}</Link>
+                                    <Link to={`/nguyenhuuluan/my-blogs/${blog.id}`}>{blog.title}</Link>
                                 </h2>
                                 <p className="mb-5 font-light text-gray-500 dark:text-gray-400">
                                     {truncateContent(blog.content, 20)} {/* 30 từ */}
@@ -61,7 +61,7 @@ export default function MyBlogs() {
                                         <span className="font-medium dark:text-white">{blog.author}</span>
                                     </div>
                                     <Link
-                                        to={`/my-blogs/${blog.id}`}
+                                        to={`/nguyenhuuluan/my-blogs/${blog.id}`}
                                         className="inline-flex items-center font-medium text-primary-600 dark:text-primary-500 hover:underline"
                                     >
                                         Đọc thêm

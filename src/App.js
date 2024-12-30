@@ -29,9 +29,9 @@ function App() {
     <Router>
       <Routes>
         <Route path="/nguyenhuuluan" element={<Main />} />
-        <Route path="/my-blogs" element={<MyBlogs />} />
-        <Route path="/about-me" element={<AboutMe />} />
-        <Route path="/my-blogs/:id" element={<BlogDetails />} />
+        <Route path="/nguyenhuuluan/my-blogs" element={<MyBlogs />} />
+        <Route path="/nguyenhuuluan/about-me" element={<AboutMe />} />
+        <Route path="/nguyenhuuluan/my-blogs/:id" element={<BlogDetails />} />
         <Route path="*" element={<PageNotFound />} />
       </Routes>
     </Router>

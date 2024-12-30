@@ -18,7 +18,7 @@ export default function BlogDetails() {
       {/* Header with Back Button */}
       <div className="text-left my-8 ml-5">
         <a
-          href="/my-blogs"
+          href="/nguyenhuuluan/my-blogs"
           className="px-4 py-2 bg-blue-500 text-white font-medium text-sm rounded-md hover:bg-blue-700 transform transition-all duration-300 hover:scale-105"
         >
           Quay lại trang blogs

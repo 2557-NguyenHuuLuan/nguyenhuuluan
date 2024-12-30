@@ -96,7 +96,7 @@ export default function PageNotFound() {
       </div>
 
       <Link
-        to="/"
+        to="/nguyenhuuluan"
         className="mt-6 px-4 py-2 bg-gray-200 text-gray-500 rounded-md hover:bg-gray-300 transition-all duration-200"
       >
         Go back

@@ -21,8 +21,8 @@ export default function Banner() {
                 <div className="flex space-x-12">
                     {[
                         { text: "Home", path: "/nguyenhuuluan" },
-                        { text: "My Blogs", path: "/my-blogs" },
-                        { text: "About Me", path: "/about-me" },
+                        { text: "My Blogs", path: "/nguyenhuuluan/my-blogs" },
+                        { text: "About Me", path: "/nguyenhuuluan/about-me" },
                     ].map(({ text, path }, index) => (
                         <Link
                             key={index}
